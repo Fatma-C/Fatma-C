@@ -1,15 +1,30 @@
 <h1 align="center">Salut 👋, je suis Fatma</h1>
 <h3 align="center">▼・ᴥ・▼</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatma-c » alt="fatma-c » /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fatma-c" alt="fatma-c" />
+  </a>
+</p>
 
 - 🔭 Je travaille actuellement sur **Site Web du portfolio étudiant**
 
 <h3 align="left">Connectez-vous avec moi : </h3>
 <p align="left">
+  <!-- Exemples de badges de réseaux sociaux -->
+  <a href="https://linkedin.com/in/votreprofile" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
+  </a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
-<p align="left"> <a href="https://aws.amazon.com » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg » alt="aws » width="40 » height="40"/> </a> <a href="https://www.w3schools.com/css/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg » alt="css3 » width="40 » height="40"/> </a> <a href="https://www.w3.org/html/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg » alt="html5 » width="40 » height="40"/> </a> <a href="https://www.mysql.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg » alt="mysql » width="40 » height="40"/> </a> <a href="https://pandas.pydata.org/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg » alt="pandas » width="40 » height="40"/> </a> <a href="https://www.python.org » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg » alt="python » width="40 » height="40"/> </a> <a href="https://scikit-learn.org/ » target="_blank » rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg » alt="scikit_learn » width="40 » height="40"/> </a> </p>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <!-- Ajoute d'autres badges langue/outils ici -->
+</p>
 
-<p><img align="center » src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-c&show_icons=true&locale=en&layout=compact » alt="fatma-c » /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-c&show_icons=true&locale=en&layout=compact" alt="fatma-c" />
+</p>
